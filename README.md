@@ -40,7 +40,7 @@
     ```typescript
     export const environment = {
       production: false,
-      apiUrl: 'http://localhost:3000', // URL вашого API
+      apiUrl: 'http://localhost:8080', // URL вашого API
     };
     ```
 
@@ -54,4 +54,4 @@
     ```
 
 ## Автор
-Створено з ❤️.
+Dmytro Burkovskyi
